@@ -5,6 +5,10 @@ module.exports = {
     extend: {
       colors: {
         black: '#191624',
+        orange: '#F38A23',
+        lime: '#D0FC03',
+        leaf: '#43FEA8',
+        dimwhite: '#DCE4F1',
       },
       animation: {
         slideup: 'slideup 1s ease-in-out',
